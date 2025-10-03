@@ -21,4 +21,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![](https://visitcount.itsvg.in/api?id=ulfiufrijal-stack&icon=3&color=0)](https://visitcount.itsvg.in)
