@@ -1,5 +1,5 @@
 
-![Ulfi Ufrijal](<github-header-banner (1)-1.png>)
+![Ulfi Ufrijal](<github-header-banner (1).png>)
 
 ### Hello World  I'm Ulfi ufrijal👋
 
