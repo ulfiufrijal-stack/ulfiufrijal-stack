@@ -6,22 +6,41 @@
 
 
 ##### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,php)](https://skillicons.dev)
 
+<h1 align="center">📊My Stats:</h1>
 
-##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ulfiufrijal-stack&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ulfiufrijal-stack&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulfiufrijal-stack&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ulfiufrijal-stack&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ulfiufrijal-stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ulfiufrijal-stack&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulfiufrijal-stack/ulfiufrijal-stack/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulfiufrijal-stack/ulfiufrijal-stack/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulfiufrijal-stack/ulfiufrijal-stack/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ulfiufrijal-stack&limit=5&theme=react&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ulfiufrijal-stack&icon=3&color=0)](https://visitcount.itsvg.in)
