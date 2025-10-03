@@ -8,6 +8,7 @@
 ##### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,php)](https://skillicons.dev)
 
+
 <h1 align="center">📊My Stats:</h1>
 
 ###
@@ -38,7 +39,6 @@
 </picture>
 
 ###
-
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
